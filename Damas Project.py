@@ -22,7 +22,7 @@ pecas = [["-",0,"-",0,"-",0,"-",0],[0,"-",0,"-",0,"-",0,"-",],["-",0,"-",0,"-",0
 #Função responsável por traduzir as informações da matriz para um tabuleiro visual
 def geratab (vez,matriz,cont_br,cont_pr):
         #---------Indices e topo do tabuleiro------------
-        print("   1 2 3 4 5 6 7 8", " |-----------------|", sep = "\n")
+        print("  1 2 3 4 5 6 7 8", " |-----------------|", sep = "\n")
         x = 0
         #---------Geraçao do tabuleiro em geral-----------
         for i in range(len(matriz)):
