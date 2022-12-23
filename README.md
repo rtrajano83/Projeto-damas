@@ -4,6 +4,10 @@
   Este é um jogo desenvolvido por mim (Rafael) e por <a href ="https://github.com/PHFelipe/">Paulo Henrique</a>, Idealizado e acompanhado na disciplina de Algoritmos e programação do curso de Engenharia da Computação IFPB-CG.
 </p>
 
+<p align= "center">
+  <img alt= "Jogo no terminal" src="Assets/Preview.png" width= "100%">
+</p>
+  
 ## 🖥️ Desenvolvimento
 O projeto foi desenvolvido em Python 3.1 e sua apresentação ocorre totalmente em interface de comando.
 
