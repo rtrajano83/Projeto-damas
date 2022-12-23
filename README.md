@@ -5,7 +5,7 @@
 </p>
 
 <p align= "center">
-  <img alt= "Jogo no terminal" src="Assets/Preview.png" width= "100%">
+  <img alt= "Jogo no terminal" src="Assets/Preview.png" width= "50%">
 </p>
   
 ## 🖥️ Desenvolvimento
